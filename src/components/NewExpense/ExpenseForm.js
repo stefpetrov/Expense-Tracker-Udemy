@@ -38,7 +38,6 @@ const ExpenseForm = (props) => {
     }
 
 
-
     return (
         <form onSubmit={submitHandler}>
             <div className="new-expense__controls" >
